@@ -68,6 +68,7 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakshya1003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/Lakshya1003/DSA/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
@@ -282,6 +283,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Lakshya1003/DSA/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Lakshya1003/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -336,4 +338,12 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Lakshya1003/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Lakshya1003/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
