@@ -43,6 +43,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lakshya1003/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Lakshya1003/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/Lakshya1003/DSA/tree/master/0148-sort-list) |
@@ -79,6 +80,7 @@ In this repository I'M uploading my dsa preparation codes
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lakshya1003/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Lakshya1003/DSA/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakshya1003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
@@ -97,6 +99,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lakshya1003/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Lakshya1003/DSA/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
@@ -346,4 +349,8 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Lakshya1003/DSA/tree/master/0146-lru-cache) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lakshya1003/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
