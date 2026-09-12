@@ -15,6 +15,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0056-merge-intervals](https://github.com/Lakshya1003/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Lakshya1003/DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Lakshya1003/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Lakshya1003/DSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Lakshya1003/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Lakshya1003/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
@@ -107,6 +108,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0005-longest-palindromic-substring](https://github.com/Lakshya1003/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Lakshya1003/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Lakshya1003/DSA/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshya1003/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Lakshya1003/DSA/tree/master/0322-coin-change) |
@@ -326,6 +328,7 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Lakshya1003/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Lakshya1003/DSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Lakshya1003/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshya1003/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
