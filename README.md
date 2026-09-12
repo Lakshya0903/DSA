@@ -20,6 +20,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0078-subsets](https://github.com/Lakshya1003/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Lakshya1003/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Lakshya1003/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Lakshya1003/DSA/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -198,6 +199,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0100-same-tree](https://github.com/Lakshya1003/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Lakshya1003/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Lakshya1003/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Lakshya1003/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Lakshya1003/DSA/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0226-invert-binary-tree) |
@@ -221,6 +223,7 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -229,6 +232,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0100-same-tree](https://github.com/Lakshya1003/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Lakshya1003/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Lakshya1003/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Lakshya1003/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Lakshya1003/DSA/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Lakshya1003/DSA/tree/master/0226-invert-binary-tree) |
@@ -263,6 +267,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Lakshya1003/DSA/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakshya1003/DSA/tree/master/0973-k-closest-points-to-origin) |
