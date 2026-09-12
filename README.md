@@ -14,6 +14,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0040-combination-sum-ii](https://github.com/Lakshya1003/DSA/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/Lakshya1003/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Lakshya1003/DSA/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Lakshya1003/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Lakshya1003/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Lakshya1003/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
@@ -324,6 +325,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Lakshya1003/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Lakshya1003/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshya1003/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -334,6 +336,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Lakshya1003/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Lakshya1003/DSA/tree/master/0735-asteroid-collision) |
 ## Binary Lifting
 |  |
