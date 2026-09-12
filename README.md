@@ -11,6 +11,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0033-search-in-rotated-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Lakshya1003/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Lakshya1003/DSA/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/Lakshya1003/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Lakshya1003/DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Lakshya1003/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -124,6 +125,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakshya1003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Lakshya1003/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Lakshya1003/DSA/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Lakshya1003/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Lakshya1003/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
