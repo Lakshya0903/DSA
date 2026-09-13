@@ -82,6 +82,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Lakshya1003/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lakshya1003/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Lakshya1003/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshya1003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshya1003/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
@@ -99,6 +100,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0784-letter-case-permutation](https://github.com/Lakshya1003/DSA/tree/master/0784-letter-case-permutation) |
 | [1143-longest-common-subsequence](https://github.com/Lakshya1003/DSA/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Lakshya1003/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Lakshya1003/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshya1003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -300,6 +302,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Lakshya1003/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Lakshya1003/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Quickselect
 |  |
 | ------- |
