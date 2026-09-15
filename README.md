@@ -25,6 +25,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0135-candy](https://github.com/Lakshya1003/DSA/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/Lakshya1003/DSA/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshya1003/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Lakshya1003/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -137,6 +138,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0078-subsets](https://github.com/Lakshya1003/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Lakshya1003/DSA/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Lakshya1003/DSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Lakshya1003/DSA/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Lakshya1003/DSA/tree/master/0784-letter-case-permutation) |
 ## Bracket Sequences
