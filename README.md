@@ -45,6 +45,7 @@ In this repository I'M uploading my dsa preparation codes
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lakshya1003/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lakshya1003/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshya1003/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshya1003/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lakshya1003/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lakshya1003/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -212,6 +213,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0062-unique-paths](https://github.com/Lakshya1003/DSA/tree/master/0062-unique-paths) |
 | [0836-rectangle-overlap](https://github.com/Lakshya1003/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakshya1003/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshya1003/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lakshya1003/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lakshya1003/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
