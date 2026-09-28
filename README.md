@@ -55,6 +55,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0142-linked-list-cycle-ii](https://github.com/Lakshya1003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Lakshya1003/DSA/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/Lakshya1003/DSA/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Lakshya1003/DSA/tree/master/0567-permutation-in-string) |
 | [0986-interval-list-intersections](https://github.com/Lakshya1003/DSA/tree/master/0986-interval-list-intersections) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lakshya1003/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -81,6 +82,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0146-lru-cache](https://github.com/Lakshya1003/DSA/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Lakshya1003/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Lakshya1003/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Lakshya1003/DSA/tree/master/1338-reduce-array-size-to-the-half) |
@@ -98,6 +100,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/Lakshya1003/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0451-sort-characters-by-frequency](https://github.com/Lakshya1003/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Lakshya1003/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/Lakshya1003/DSA/tree/master/0784-letter-case-permutation) |
@@ -110,6 +113,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Lakshya1003/DSA/tree/master/0567-permutation-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshya1003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
