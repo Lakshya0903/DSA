@@ -23,6 +23,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakshya1003/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Lakshya1003/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Lakshya1003/DSA/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/Lakshya1003/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Lakshya1003/DSA/tree/master/0216-combination-sum-iii) |
@@ -131,6 +132,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0032-longest-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Lakshya1003/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Lakshya1003/DSA/tree/master/0063-unique-paths-ii) |
+| [0152-maximum-product-subarray](https://github.com/Lakshya1003/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshya1003/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Lakshya1003/DSA/tree/master/0322-coin-change) |
