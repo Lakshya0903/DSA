@@ -43,6 +43,7 @@ In this repository I'M uploading my dsa preparation codes
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshya1003/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Lakshya1003/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lakshya1003/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lakshya1003/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshya1003/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lakshya1003/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lakshya1003/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -88,6 +89,7 @@ In this repository I'M uploading my dsa preparation codes
 | [1338-reduce-array-size-to-the-half](https://github.com/Lakshya1003/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lakshya1003/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Lakshya1003/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lakshya1003/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshya1003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshya1003/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
@@ -109,6 +111,7 @@ In this repository I'M uploading my dsa preparation codes
 | [1221-split-a-string-in-balanced-strings](https://github.com/Lakshya1003/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Lakshya1003/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lakshya1003/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshya1003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
