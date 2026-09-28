@@ -99,6 +99,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0006-zigzag-conversion](https://github.com/Lakshya1003/DSA/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakshya1003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/Lakshya1003/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0451-sort-characters-by-frequency](https://github.com/Lakshya1003/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -123,6 +124,7 @@ In this repository I'M uploading my dsa preparation codes
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lakshya1003/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Lakshya1003/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Lakshya1003/DSA/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/Lakshya1003/DSA/tree/master/0198-house-robber) |
@@ -156,6 +158,7 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Knapsack Problem
@@ -350,6 +353,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Lakshya1003/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/Lakshya1003/DSA/tree/master/0735-asteroid-collision) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
