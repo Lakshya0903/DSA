@@ -56,6 +56,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Lakshya1003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Lakshya1003/DSA/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lakshya1003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/Lakshya1003/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Lakshya1003/DSA/tree/master/0567-permutation-in-string) |
 | [0986-interval-list-intersections](https://github.com/Lakshya1003/DSA/tree/master/0986-interval-list-intersections) |
@@ -82,6 +83,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakshya1003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Lakshya1003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Lakshya1003/DSA/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lakshya1003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya1003/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Lakshya1003/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Lakshya1003/DSA/tree/master/0567-permutation-in-string) |
@@ -336,6 +338,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0142-linked-list-cycle-ii](https://github.com/Lakshya1003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Lakshya1003/DSA/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Lakshya1003/DSA/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lakshya1003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Merge Sort
 |  |
 | ------- |
