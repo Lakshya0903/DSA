@@ -46,6 +46,7 @@ In this repository I'M uploading my dsa preparation codes
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lakshya1003/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lakshya1003/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lakshya1003/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lakshya1003/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshya1003/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshya1003/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lakshya1003/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -143,6 +144,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0435-non-overlapping-intervals](https://github.com/Lakshya1003/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Lakshya1003/DSA/tree/master/0494-target-sum) |
 | [1143-longest-common-subsequence](https://github.com/Lakshya1003/DSA/tree/master/1143-longest-common-subsequence) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lakshya1003/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +172,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0032-longest-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lakshya1003/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -382,6 +385,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0074-search-a-2d-matrix](https://github.com/Lakshya1003/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Lakshya1003/DSA/tree/master/0079-word-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshya1003/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lakshya1003/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Ternary Search
 |  |
 | ------- |
