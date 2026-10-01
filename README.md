@@ -80,8 +80,6 @@ In this repository I'M uploading my dsa preparation codes
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshya1003/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Lakshya1003/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lakshya1003/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
-
-
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +105,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0005-longest-palindromic-substring](https://github.com/Lakshya1003/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Lakshya1003/DSA/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakshya1003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Lakshya1003/DSA/tree/master/0038-count-and-say) |
@@ -171,6 +170,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Lakshya1003/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -372,6 +372,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Lakshya1003/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/Lakshya1003/DSA/tree/master/0735-asteroid-collision) |
