@@ -117,6 +117,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0692-top-k-frequent-words](https://github.com/Lakshya1003/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Lakshya1003/DSA/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/Lakshya1003/DSA/tree/master/0784-letter-case-permutation) |
+| [1021-remove-outermost-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Lakshya1003/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Lakshya1003/DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -176,6 +177,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Lakshya1003/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Lakshya1003/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -381,6 +383,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0316-remove-duplicate-letters](https://github.com/Lakshya1003/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Lakshya1003/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Lakshya1003/DSA/tree/master/0735-asteroid-collision) |
+| [1021-remove-outermost-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Lakshya1003/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
