@@ -12,6 +12,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Lakshya1003/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Lakshya1003/DSA/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/Lakshya1003/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Lakshya1003/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Lakshya1003/DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Lakshya1003/DSA/tree/master/0059-spiral-matrix-ii) |
@@ -141,6 +142,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0005-longest-palindromic-substring](https://github.com/Lakshya1003/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Lakshya1003/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/Lakshya1003/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Lakshya1003/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Lakshya1003/DSA/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/Lakshya1003/DSA/tree/master/0152-maximum-product-subarray) |
@@ -218,6 +220,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Lakshya1003/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Lakshya1003/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Lakshya1003/DSA/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Lakshya1003/DSA/tree/master/0316-remove-duplicate-letters) |
