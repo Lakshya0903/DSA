@@ -132,6 +132,7 @@ In this repository I'M uploading my dsa preparation codes
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshya1003/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Lakshya1003/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lakshya1003/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Lakshya1003/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshya1003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -422,6 +423,7 @@ In this repository I'M uploading my dsa preparation codes
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Lakshya1003/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Lakshya1003/DSA/tree/master/0735-asteroid-collision) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Lakshya1003/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Binary Lifting
 |  |
 | ------- |
