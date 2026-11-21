@@ -6,6 +6,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lakshya1003/DSA/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Lakshya1003/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lakshya1003/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -88,6 +89,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lakshya1003/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakshya1003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Lakshya1003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Lakshya1003/DSA/tree/master/0146-lru-cache) |
