@@ -46,6 +46,7 @@ In this repository I'M uploading my dsa preparation codes
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshya1003/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Lakshya1003/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lakshya1003/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Lakshya1003/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Lakshya1003/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lakshya1003/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lakshya1003/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -251,6 +252,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0062-unique-paths](https://github.com/Lakshya1003/DSA/tree/master/0062-unique-paths) |
 | [0836-rectangle-overlap](https://github.com/Lakshya1003/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakshya1003/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Lakshya1003/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshya1003/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lakshya1003/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lakshya1003/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -446,6 +448,7 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Lakshya1003/DSA/tree/master/0146-lru-cache) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Lakshya1003/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -461,6 +464,7 @@ In this repository I'M uploading my dsa preparation codes
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Lakshya1003/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lakshya1003/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Indexed Tree
 |  |
@@ -470,4 +474,8 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lakshya1003/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Lakshya1003/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
