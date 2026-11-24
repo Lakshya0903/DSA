@@ -52,6 +52,7 @@ In this repository I'M uploading my dsa preparation codes
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lakshya1003/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lakshya1003/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lakshya1003/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lakshya1003/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshya1003/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshya1003/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lakshya1003/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -145,6 +146,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0567-permutation-in-string](https://github.com/Lakshya1003/DSA/tree/master/0567-permutation-in-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lakshya1003/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshya1003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lakshya1003/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -253,6 +255,7 @@ In this repository I'M uploading my dsa preparation codes
 | [0836-rectangle-overlap](https://github.com/Lakshya1003/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakshya1003/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Lakshya1003/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lakshya1003/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshya1003/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lakshya1003/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lakshya1003/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -478,4 +481,12 @@ In this repository I'M uploading my dsa preparation codes
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Lakshya1003/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lakshya1003/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lakshya1003/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
